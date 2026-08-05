@@ -1,0 +1,4 @@
+The link of data:
+https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied?select=SBAnational.csv
+
+(Its over 100MB so I cant push it in github)
