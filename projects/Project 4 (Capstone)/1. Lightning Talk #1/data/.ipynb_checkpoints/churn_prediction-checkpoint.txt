@@ -1,4 +1,0 @@
-The link of data:
-https://www.kaggle.com/datasets/pentakrishnakishore/bank-customer-churn-data?select=Churn_Prediction_Using_Logistic_Regression+%281%29.ipynb
-
-(Its over 100MB so I cant push it in github)
